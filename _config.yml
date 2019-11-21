@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Alëna Aksënova
 tagline:          'Linguist. Researcher.'
 description:      'Linguist. Researcher.'
-url:              https://github.com/alenaks/alenaks.github.io
+url:              'https://github.com/alenaks/alenaks.github.io'
 #baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
                   # This applies to all pages in your Jekyll site.
@@ -16,7 +16,7 @@ url:              https://github.com/alenaks/alenaks.github.io
 
 author:
   name:           'Alëna Aksënova'
-  url:            https://www.linkedin.com/in/alenaks/
+  url:            'https://www.linkedin.com/in/alenaks/'
 
 paginate:         5
 paginate_path:    '/home'
